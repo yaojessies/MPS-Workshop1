@@ -1,0 +1,141 @@
+/* FIRST ITERATION */
+
+body.jessie-1 {
+  background: #00004d ;
+  margin-top: 5%;
+  margin-right: 30%;
+  margin left: 30%;
+  text-align: center;
+  color: white;
+  line-height: 0.3;
+  transform: rotate(340deg);
+}
+body.jessie-1 .one {
+  font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  font-weight: ;
+  text-decoration: ;
+  text-align:center;
+  color: ;
+  opacity: ;
+  margin-right: 30%;
+}
+
+body.jessie-1 .two {
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  font-weight:900;
+  text-decoration: ;
+  text-align: ;
+  padding: 5px;
+  color: ;
+  opacity: ;
+  letter-spacing: 80px;
+}
+body.jessie-1 .three{
+  font-family: 'Playfair Display', serif;
+  font-size: 100px;
+  font-weight: 900;
+  text-decoration: ;
+  text-align: ;
+  padding: 0px;
+  color: ;
+  opacity: 50%;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.jessie-2 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: 50px;
+  color: ;
+  opacity: ;
+  background-color: #d3d6eb;
+   background-image: linear-gradient(to right, #d3d6eb , #5eedfb);
+  
+}
+body.jessie-2 .one {
+  font-family: ;
+  font-size: 12px;
+  font-weight: ;
+  text-decoration: underline ;
+  text-align: left;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.jessie-2 .two {
+  font-family: ;
+  font-size: 100px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: right;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.jessie-2 .three{
+  font-family: ;
+  font-size: 30px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+
+/* THIRD ITERATION */
+
+body.jessie-3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: 30px;
+  color: ;
+  opacity: ;
+  background: ;
+  
+  
+}
+
+body.jessie-3 .one {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: 60px;
+  color: #03626b;
+  opacity: ;
+}
+
+body.jessie-3 .two {
+  font-size: 300px;
+  line-height: 20px;
+	margin: 0;
+	font-family: 'Playfair Display', serif;
+	text-transform: uppercase;
+	color: #52d9da;
+  opacity: 0.5;
+}
+
+body.jessie-3 .three{
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: #840439;
+  opacity: ;
+}
